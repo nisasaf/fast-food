@@ -68,6 +68,7 @@ main {
 .btn-jumbotron {
 	padding: 15px 30px;
 	border-collapse: separate;
+	border-radius: 0;
 	border-top-left-radius: 30px;
 	border-top-right-radius: 30px;
 	border-bottom-left-radius: 30px;
